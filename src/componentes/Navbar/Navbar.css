@@ -1,0 +1,27 @@
+ .Navbar{
+    height: 50px;
+    background-color: #003580;
+    display: flex;
+    justify-content: center;
+  }
+ .Navcontainer{
+    width: 100%;   
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .logo{
+    font-weight:700;
+ 
+ }
+ .NavButton{
+    margin-left: 20px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: #003580;
+ }
+ .Navitems{
+  margin-top: 10px;
+ }
